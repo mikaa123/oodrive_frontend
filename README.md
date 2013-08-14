@@ -16,3 +16,8 @@ Use SublimeLinter Plugin
 
 ### Eclipse
 http://github.eclipserouce.com/jshint-eclipse
+
+## Styleguide
+
+Use https://github.com/rwldrn/idiomatic.js/
+For comments, JSDoc. http://usejsdoc.org
