@@ -11,10 +11,17 @@ TODO: Write a README.
 Linting is done using JSHint. `.jshintrc` lists all the options we use.
 We recommand putting this file (or symlink it) at the root of your home directory.
 
-* Sublime Text: Use SublimeLinter Plugin
-* Eclipse: http://github.eclipserouce.com/jshint-eclipse
+* Sublime Text
+
+Use SublimeLinter Plugin
+
+* Eclipse
+
+http://github.eclipserouce.com/jshint-eclipse
+http://andrei.gmxhome.de/anyedit/ (for better text editing)
 
 ## Styleguide
 
+* We use __tabs__ for indents.
 * Use https://github.com/rwldrn/idiomatic.js/
 * For comments, JSDoc. http://usejsdoc.org
