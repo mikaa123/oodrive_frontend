@@ -7,7 +7,7 @@ The goal of this repository is to regroup front-end related resources.
 ## JSHint
 
 Linting is done using JSHint. `.jshintrc` lists all the options we use.
-We recommand putting this file (or symlink it) at the root of your home directory.
+We recommend putting this file (or symlink it) at the root of your home directory.
 
 ### Sublime Text
 
