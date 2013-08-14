@@ -4,8 +4,6 @@
 
 The goal of this repository is to regroup front-end related resources.
 
-TODO: Write a README.
-
 ## JSHint
 
 Linting is done using JSHint. `.jshintrc` lists all the options we use.
