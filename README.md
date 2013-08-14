@@ -17,8 +17,8 @@ Use SublimeLinter Plugin
 
 ### Eclipse
 
-http://github.eclipserouce.com/jshint-eclipse
-http://andrei.gmxhome.de/anyedit/ (for better text editing)
+* JSHint plugin: http://github.eclipserouce.com/jshint-eclipse
+* Better text editing: http://andrei.gmxhome.de/anyedit/
 
 ## Styleguide
 
