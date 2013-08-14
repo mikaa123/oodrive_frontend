@@ -11,11 +11,11 @@ TODO: Write a README.
 Linting is done using JSHint. `.jshintrc` lists all the options we use.
 We recommand putting this file (or symlink it) at the root of your home directory.
 
-* Sublime Text
+### Sublime Text
 
 Use SublimeLinter Plugin
 
-* Eclipse
+### Eclipse
 
 http://github.eclipserouce.com/jshint-eclipse
 http://andrei.gmxhome.de/anyedit/ (for better text editing)
