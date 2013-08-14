@@ -12,7 +12,7 @@ Linting is done using JSHint. `.jshintrc` lists all the options we use.
 We recommand putting this file (or symlink it) at the root of your home directory.
 
 * Sublime Text: Use SublimeLinter Plugin
-* Eclipse: http://github.eclipserouce.com/jshint-eclipse
+* Eclipse: http://github.eclipsesource.com/jshint-eclipse
 
 ## Styleguide
 
