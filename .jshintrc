@@ -1,4 +1,5 @@
 {
+	"es3":       true, // This is for the extra comma
 	"bitwise":   true,
 	"curly":     true, 
 	"eqeqeq":    true, 
@@ -15,6 +16,7 @@
 	"laxcomma":  true,
 	"browser":   true,
 	"jquery":    true,
+  "node":      true,
 	"globals": {
 		"appl":       false,
 		"com":        false,
@@ -24,6 +26,8 @@
 		"translator": false,
 		"EasyWeb":    false,
 		"oomask":     false,
-		"process":    false
+		"process":    false,
+    "_":          false,
+    "Backbone":   false
 	}
 }
