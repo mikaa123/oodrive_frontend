@@ -9,6 +9,10 @@ The goal of this repository is to regroup front-end related resources.
 Linting is done using JSHint. `.jshintrc` lists all the options we use.
 We recommend putting this file (or symlink it) at the root of your home directory.
 
+## EditorConfig
+
+EditorConfig helps keeping consistency across projects. Put this file at the root of your projects and use a plugin that works well with your texteditor.
+
 ### Sublime Text
 
 Use SublimeLinter Plugin
